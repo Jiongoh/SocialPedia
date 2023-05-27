@@ -1,0 +1,10 @@
+@import url('https://fonts.font.im/css?family=Ubuntu:400,500,700');
+
+html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+  font-family: 'Ubuntu', sans-serif;
+}
